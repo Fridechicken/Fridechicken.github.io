@@ -1,0 +1,37 @@
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+body {
+    background-color: rgb(120, 120, 120);
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+.subtitle {
+    color: rgb(255, 255, 255);
+}
+.banner_top {
+    background-color: rgb(10, 0, 208, 0.7);
+    text-align: left;
+    padding: 40px 20px;
+}
+.contact_info{
+    background-color: rgb(10, 0, 208, 0.7);
+    text-align: center;
+    padding: 40px 20px;
+}
+a:link {
+    color: rgb(173, 216, 230);
+}
+a:visited {
+    color: rgb(152, 251, 152);
+}
+a:hover {
+    color: rgb(255, 255, 255);
+}
+a:active {
+    color: rgb(255, 255, 255);
+}
